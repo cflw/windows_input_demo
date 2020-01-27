@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "鼠标", "鼠标\鼠标.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cflw代码库cpp", "C:\Users\cflw1\OneDrive\文档\开发\cflw代码库\cflw代码库.vcxproj", "{AD010D5B-4048-48C8-9BE6-82484BEC32B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "触摸", "触摸\触摸.vcxproj", "{8005C764-52AA-4269-840F-A4BEBE88868E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "手柄", "手柄\手柄.vcxproj", "{180D38F1-E6A2-462C-B620-90479FC0CA51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{AD010D5B-4048-48C8-9BE6-82484BEC32B1}.Release|x64.Build.0 = Release|x64
 		{AD010D5B-4048-48C8-9BE6-82484BEC32B1}.Release|x86.ActiveCfg = Release|Win32
 		{AD010D5B-4048-48C8-9BE6-82484BEC32B1}.Release|x86.Build.0 = Release|Win32
+		{8005C764-52AA-4269-840F-A4BEBE88868E}.Debug|x64.ActiveCfg = Debug|x64
+		{8005C764-52AA-4269-840F-A4BEBE88868E}.Debug|x64.Build.0 = Debug|x64
+		{8005C764-52AA-4269-840F-A4BEBE88868E}.Debug|x86.ActiveCfg = Debug|Win32
+		{8005C764-52AA-4269-840F-A4BEBE88868E}.Debug|x86.Build.0 = Debug|Win32
+		{8005C764-52AA-4269-840F-A4BEBE88868E}.Release|x64.ActiveCfg = Release|x64
+		{8005C764-52AA-4269-840F-A4BEBE88868E}.Release|x64.Build.0 = Release|x64
+		{8005C764-52AA-4269-840F-A4BEBE88868E}.Release|x86.ActiveCfg = Release|Win32
+		{8005C764-52AA-4269-840F-A4BEBE88868E}.Release|x86.Build.0 = Release|Win32
+		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Debug|x64.ActiveCfg = Debug|x64
+		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Debug|x64.Build.0 = Debug|x64
+		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Debug|x86.ActiveCfg = Debug|Win32
+		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Debug|x86.Build.0 = Debug|Win32
+		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Release|x64.ActiveCfg = Release|x64
+		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Release|x64.Build.0 = Release|x64
+		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Release|x86.ActiveCfg = Release|Win32
+		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
