@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "触摸", "触摸\触摸.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "手柄", "手柄\手柄.vcxproj", "{180D38F1-E6A2-462C-B620-90479FC0CA51}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "笔", "笔\笔.vcxproj", "{F181A6B7-9958-4E9F-8EB8-E89727A86117}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Release|x64.Build.0 = Release|x64
 		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Release|x86.ActiveCfg = Release|Win32
 		{180D38F1-E6A2-462C-B620-90479FC0CA51}.Release|x86.Build.0 = Release|Win32
+		{F181A6B7-9958-4E9F-8EB8-E89727A86117}.Debug|x64.ActiveCfg = Debug|x64
+		{F181A6B7-9958-4E9F-8EB8-E89727A86117}.Debug|x64.Build.0 = Debug|x64
+		{F181A6B7-9958-4E9F-8EB8-E89727A86117}.Debug|x86.ActiveCfg = Debug|Win32
+		{F181A6B7-9958-4E9F-8EB8-E89727A86117}.Debug|x86.Build.0 = Debug|Win32
+		{F181A6B7-9958-4E9F-8EB8-E89727A86117}.Release|x64.ActiveCfg = Release|x64
+		{F181A6B7-9958-4E9F-8EB8-E89727A86117}.Release|x64.Build.0 = Release|x64
+		{F181A6B7-9958-4E9F-8EB8-E89727A86117}.Release|x86.ActiveCfg = Release|Win32
+		{F181A6B7-9958-4E9F-8EB8-E89727A86117}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
